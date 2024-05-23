@@ -1,4 +1,4 @@
-# pi6turma1
+# pi6turma22
 Projeto Integrador Univesp PIJ610 Turma 022
 
 Este código cria um servidor web simples que exibe uma página HTML com um botão para ligar e desligar a ventoinha. Quando o botão é pressionado, uma requisição POST é enviada para o servidor, que alterna o estado do relé (e, portanto, a ventoinha) e atualiza a página para refletir o novo estado. É necessário substituir "NomeDaSuaRedeWiFi" e "SenhaDaSuaRedeWiFi" pelo nome e senha da rede WiFi.
